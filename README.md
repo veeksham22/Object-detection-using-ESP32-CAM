@@ -1,6 +1,3 @@
-Certainly! Below is a detailed GitHub README file for your project:
-
----
 
 # Object Detection using ESP32-CAM
 
