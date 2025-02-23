@@ -1,0 +1,8 @@
+Instructions to run the code:
+1) download the zip file into the system
+2) upload it in the library manager of Arduino IDE
+3) Go to library and scroll down to find your newly uploaded library file and click on example sketches from the same
+4) click on esp32>esp32_cam.io and open the code file.
+5) select the device type connected and comment out the rest from the code and run it
+6) open serial monitor give the baud value and see the output while the camera is pointed at the required object for detection
+For this attached file only step 5 and 6 are sufficient.
